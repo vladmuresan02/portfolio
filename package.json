@@ -5,7 +5,11 @@
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "react-router": "*",
+    "react-router-dom": "*",
+    "react-slick": "^0.15.4",
+    "react-transition-group": "^2.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
